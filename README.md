@@ -18,3 +18,5 @@ The following steps were implemented for this project:
            (iii) Model 20: 360 hidden neurons + extra 360 features (from an autoencoder)
 5. The error rates were plotted for the 3-layer neural networks from step 3 and the augmented self-taught network from step 4, with the number of hidden neurons on the x-axis and the classification error on the y-axis.
 
+Instructions:<br>
+Please use the appropriate references in line with the GNU General Public Licence 3.0 while reusing this code.
